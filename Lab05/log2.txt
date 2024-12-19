@@ -1,0 +1,10 @@
+/home/karatisd/OS/Lab05
+log
+  File: log
+  Size: 28        	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 410710      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1278/karatisd)   Gid: ( 1280/karatisd)
+Access: 2024-12-19 12:32:42.990247588 +0200
+Modify: 2024-12-19 12:32:42.990247588 +0200
+Change: 2024-12-19 12:32:42.994247630 +0200
+ Birth: -
